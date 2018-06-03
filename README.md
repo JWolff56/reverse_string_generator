@@ -15,6 +15,7 @@
 
 ## ALL THE ABOVE IS COMMENTED OUT- BELOW IS THE FINAL VERSION
 #this is the proper version of a reverse string generator
+
 def reverse(string):
 	string = string[::-1]
 	return string
